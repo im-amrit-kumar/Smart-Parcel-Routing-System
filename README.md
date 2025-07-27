@@ -127,8 +127,4 @@ Truck 2 Route: 0 -> 1
 🔗 [LinkedIn](http://www.linkedin.com/in/im-amrit-kumar)  
 💻 [GitHub](https://github.com/im-amrit-kumar)
 
----
 
-## 📜 License
-
-This project is under the [MIT License](LICENSE).
